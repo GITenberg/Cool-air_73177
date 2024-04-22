@@ -8,6 +8,9 @@ contributor:
     deathdate: 1973
     gutenberg_agent_id: '56976'
     url: http://www.gutenberg.org/2009/agents/56976
+covers:
+- cover_type: archival
+  image_path: 73177-h/images/cover.jpg
 creator:
   author:
     agent_name: Lovecraft, H. P. (Howard Phillips)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34724
     wikipedia: https://en.wikipedia.org/wiki/H._P._Lovecraft
 description: 'Wikipedia: https://en.wikipedia.org/wiki/Cool_Air'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73177#Cool-air
 gutenberg_issued: '2024-03-16'
 gutenberg_type: Text
 identifiers:
